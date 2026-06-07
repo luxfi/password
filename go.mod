@@ -1,6 +1,6 @@
 module github.com/luxfi/password
 
-go 1.26.3
+go 1.26.4
 
 require (
 	github.com/nbutton23/zxcvbn-go v0.0.0-20210217022336-fa2cb2858354
