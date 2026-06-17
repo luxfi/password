@@ -1,4 +1,4 @@
-# LLM.md - Hanzo Password
+# Hanzo Password
 
 ## Overview
 Go module: github.com/luxfi/password
